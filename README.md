@@ -1,4 +1,4 @@
-# 📘 SmartPrep - Your All-in-One Learning Platform
+# 📘 SmartPrep - Your All-in-One Learning Platform (under Development)
 
 SmartPrep is a responsive and user-friendly educational platform designed to provide a comprehensive and personalized learning experience. Built using Next.js, SmartPrep offers easy access to a variety of courses, free study materials, mentorship programs, and doubt-solving support to help learners succeed at every step of their educational journey.
 
